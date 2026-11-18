@@ -8,3 +8,4 @@ draft: false
 description: Tôi từng nghĩ một cái nắm tay có thể giữ người ta ở lại. nhưng rồi
   tôi học được rằng nếu lòng họ muốn rời, thì đến ánh mắt cũng không thể giữ.
 ---
+Tôi từng nghĩ một cái nắm tay có thể giữ người ta ở lại. nhưng rồi tôi học được rằng nếu lòng họ muốn rời, thì đến ánh mắt cũng không thể giữ.
